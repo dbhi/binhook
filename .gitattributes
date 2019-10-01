@@ -1,0 +1,16 @@
+* text=-crlf
+
+*.c text
+*.gitattributes text
+*.gitignore text
+*.gitmodules text
+*.json text
+*.md text
+*.sh text
+*.txt text
+*.yml text
+
+*.gif binary
+*.ico binary
+*.jpeg binary
+*.png binary
