@@ -1,3 +1,6 @@
 [submodule "tests/001/ELF-Hook"]
 	path = tests/elf_hook/ELF-Hook
 	url = https://github.com/shoumikhin/ELF-Hook
+[submodule "tests/poke/poke"]
+	path = tests/poke/poke
+	url = https://git.savannah.gnu.org/git/poke.git
