@@ -133,6 +133,13 @@ work in progress...
 
 work in progress... the extensible editor for structured binary data
 
+## [Egalito](https://egalito.org/)
+
+> supported os (?) platforms (?)
+
+- [columbia/egalito](https://github.com/columbia/egalito)
+- [ASPLOS'20 - Session 2B - Egalito: Layout-Agnostic Binary Recompilation](https://www.youtube.com/watch?v=9Mv0-PfiXeg)
+
 ## [lief-project/LIEF](https://github.com/lief-project/LIEF)
 
 > supported os (?) platforms (?)
